@@ -9,7 +9,7 @@ git clone https://github.com/LiudmylaKulinchenko/python-for-finance.git
 python -m venv venv
 venv\Scripts\activate (for Windows)
 
-python -m venv venv
+python3 -m venv venv
 venv/bin/activate (for Mac/Linux)
 
 pip install -r requirements.txt
